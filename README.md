@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! 👋
+
+- 🌱 I’m currently learning Node.js and React
+- 👯 I’m actually collaborating with @<a href="https://github.com/liornes">Leandro</a> in a few personal projects
+- ⚡ Fun fact: I love playing video games
 
 ## Skills
 ### Programming Languages
@@ -14,10 +18,13 @@
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
-### Design
+### UX/UI & Design
 <div>
+  <img width="3.5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />      
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div>
