@@ -4,6 +4,9 @@
 - 👯 I’m actually collaborating with @<a href="https://github.com/liornes">Leandro</a> in a few personal projects
 - ⚡ Fun fact: I love playing video games
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentim-debora&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+
 ## Skills
 ### Programming Languages
 <div>
@@ -28,7 +31,7 @@
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div>
-  
+
           
 <!--
 **valentim-debora/valentim-debora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
