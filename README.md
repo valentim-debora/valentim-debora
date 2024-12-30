@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-- 🌱 I’m currently learning Node.js and React
+- 🌱 I’m currently learning MySQL
 - 👯 I’m actually collaborating with @<a href="https://github.com/liornes">Leandro</a> in a few personal projects
 - ⚡ Fun fact: I love playing video games
 
@@ -21,8 +21,8 @@
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <!-- <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> -->
   <img width="3.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 
