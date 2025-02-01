@@ -2,7 +2,7 @@
 
 - 🤝 I'm Debora
 - ♊ 1999
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning UX/UI and Data Analysis
 - 👯 I’m actually collaborating with @<a href="https://github.com/liornes">Leandro</a> in a few personal projects
 - 🏠 I’m currently living in Rio de Janeiro - RJ, Brazil 🇧🇷.
 - ⚡ Fun fact: I love playing video games
